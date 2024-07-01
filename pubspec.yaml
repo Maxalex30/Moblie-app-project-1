@@ -65,6 +65,13 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+assets:
+  #  - assets/images/breathing_exercise.png
+  #  - assets/images/body_scan.png
+  #  - assets/images/mindful_walking.png
+  #  - assets/images/loving_kindness.png
+  #  - assets/images/mindful_eating.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
